@@ -178,7 +178,7 @@ They contain:
 
 **1️⃣ Clone the repository**
 
-git clone https://github.com/yourusername/IPL-Analytics-Dashboard.git  
+git clone https://github.com/AumSheth/IPL-Dashboard.git  
 cd IPL-Analytics-Dashboard
 
 **2️⃣ Install dependencies**
